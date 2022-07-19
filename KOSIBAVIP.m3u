@@ -1,0 +1,66 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="4109" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:1:100D:451:35:C00000:0:0:0:" tvg-name="Hustler TV (CZ)",Hustler TV (CZ)
+#EXTVLCOPT:program=4109
+http://zvip.ddns.net:8001/1:0:1:100D:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4065" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:1:FE1:451:35:C00000:0:0:0:" tvg-name="Vivid TV (CZ)",Vivid TV (CZ)
+#EXTVLCOPT:program=4065
+http://zvip.ddns.net:8001/1:0:1:FE1:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4064" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:1:FE0:451:35:C00000:0:0:0:" tvg-name="Vivid TV (Dutch)",Vivid TV (Dutch)
+#EXTVLCOPT:program=4064
+http://zvip.ddns.net:8001/1:0:1:FE0:451:35:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="16901" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:4205:2F44:13E:820000:0:0:0:" tvg-name="Dorcel TV HD",Dorcel TV HD
+#EXTVLCOPT:program=16901
+http://zvip.ddns.net:8001/1:0:19:4205:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16928" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:4220:2F44:13E:820000:0:0:0:" tvg-name="Hustler HD",Hustler HD
+#EXTVLCOPT:program=16928
+http://zvip.ddns.net:8001/1:0:19:4220:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16929" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:4221:2F44:13E:820000:0:0:0:" tvg-name="Blue Hustler",Blue Hustler
+#EXTVLCOPT:program=16929
+http://zvip.ddns.net:8001/1:0:19:4221:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16903" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:4207:2F44:13E:820000:0:0:0:" tvg-name="Brazzers HD",Brazzers HD
+#EXTVLCOPT:program=16903
+http://zvip.ddns.net:8001/1:0:19:4207:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16999" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:4267:3DB8:13E:820000:0:0:0:" tvg-name="Vivid Red HD",Vivid Red HD
+#EXTVLCOPT:program=16999
+http://zvip.ddns.net:8001/1:0:19:4267:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="7355" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:1CBB:1CE8:71:820000:0:0:0:" tvg-name="Vivid Touch",Vivid Touch
+#EXTVLCOPT:program=7355
+http://zvip.ddns.net:8001/1:0:19:1CBB:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16932" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:4224:3DB8:13E:820000:0:0:0:" tvg-name="Redlight HD",Redlight HD
+#EXTVLCOPT:program=16932
+http://zvip.ddns.net:8001/1:0:19:4224:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="4808" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:12C8:2E7C:13E:820000:0:0:0:" tvg-name="Playboy HD",Playboy HD
+#EXTVLCOPT:program=4808
+http://zvip.ddns.net:8001/1:0:19:12C8:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16930" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:4222:2F44:13E:820000:0:0:0:" tvg-name="Private HD",Private HD
+#EXTVLCOPT:program=16930
+http://zvip.ddns.net:8001/1:0:19:4222:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="468" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:1D4:26AC:13F:820000:0:0:0:" tvg-name="XXL",XXL
+#EXTVLCOPT:program=468
+http://zvip.ddns.net:8001/1:0:19:1D4:26AC:13F:820000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="30909" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:1:78BD:2C5:600:E080000:0:0:0:" tvg-name="Private TV",Private TV
+#EXTVLCOPT:program=30909
+http://zvip.ddns.net:8001/1:0:1:78BD:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30928" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:1:78D0:2C5:600:E080000:0:0:0:" tvg-name="Private TV.",Private TV.
+#EXTVLCOPT:program=30928
+http://zvip.ddns.net:8001/1:0:1:78D0:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="3027" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:BD3:AF3:BB:FFF80000:0:0:0:" tvg-name="Dorcel TV",Dorcel TV
+#EXTVLCOPT:program=3027
+http://zvip.ddns.net:8001/1:0:19:BD3:AF3:BB:FFF80000:0:0:0:
+#EXTINF:-1 tvg-chno="1033" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:1:409:2:1:E0831B3:0:0:0:" tvg-name="Superone",Superone
+#EXTVLCOPT:program=1033
+http://zvip.ddns.net:8001/1:0:1:409:2:1:E0831B3:0:0:0:
+#EXTINF:-1 tvg-chno="2023" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:7E7:AF2:BB:E080000:0:0:0:" tvg-name="EroXXX HD",EroXXX HD
+#EXTVLCOPT:program=2023
+http://zvip.ddns.net:8001/1:0:19:7E7:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30309" tvg-logo="http://zvip.ddns.net/images/default_picon.png" tvg-id="1:0:19:7665:2BF:600:FFF80000:0:0:0:" tvg-name="Vixen HD",Vixen HD
+#EXTVLCOPT:program=30309
+http://zvip.ddns.net:8001/1:0:19:7665:2BF:600:FFF80000:0:0:0:
+
+
+
